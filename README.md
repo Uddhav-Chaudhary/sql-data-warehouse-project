@@ -5,7 +5,7 @@ This project demonstrate a comprehensive data warehousing and analytics solution
 
 ---
 
-## Project Requirements
+## 🚀Project Requirements
 
 ### Building the Data Warehouse (Data Engineering)
 
@@ -29,13 +29,13 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Product Performance**
 - **Sales Trends**
 
-  These insights empower stakeholders with key business metrics, enabling strategic decision-making.
+These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
-  ---
+---
 
-  ## License
+## 🛡️License
 
-  This project is licensed under the [MIT License](LUCENSE). You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LUCENSE). You are free to use, modify, and share this project with proper attribution.
 
-  ## About Me
+## ⭐About Me
   
